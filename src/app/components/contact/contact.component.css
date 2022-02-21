@@ -1,0 +1,57 @@
+
+.contact-section{
+    padding-bottom: 62px;
+  }
+  .contact-section h4{
+    font-weight: 600;
+    margin-bottom: 13px;
+  }
+  .contact-form-area h4{
+    margin-bottom: 22px;
+  }
+  .contact-form-area input{
+    height: 53px;
+    margin-bottom: 19px;
+  }
+  .contact-form-area textarea{
+    margin-bottom: 15px;
+  }
+  .contact-form-area button.btn-one {
+    padding: 13px 26px 13px 26px;
+  }
+  .contact-info{
+    margin-left: 50px;
+  }
+  .contact-info p{
+    margin-bottom: 42px;
+  }
+  .contact-info .info-box .single-info{
+    position: relative;
+    padding: 0px 0px 0px 84px;
+    margin-bottom: 45px;
+  }
+  .contact-info .info-box .single-info .icon-box{
+    position: absolute;
+    left: 0px;
+    top: -8px;
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    text-align: center;
+    background: #fd7e14;
+  }
+  .contact-info .info-box .single-info .icon-box i:before{
+    font-size: 30px;
+    color: #fff;
+    margin: 0px;
+  }
+  .contact-info .info-box .single-info .text{
+    line-height: 23px;
+  }
+  .contact-info .info-box .single-info .text span{
+    color: black;
+  }
+ .btn-one {
+      background: #fd7e14;
+      color: #fff;
+  }
